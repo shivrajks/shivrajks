@@ -5,15 +5,10 @@ Backend Java Developer passionate about building scalable systems and secure pay
 🚀 About Me
 
 🎓 Bachelor of Computer Science (2022–2025)
-
 💻 Specialized in Java & Spring Boot
-
 🏗️ Experience building Microservices Architecture
-
 💳 Built a full Payment Integration System using Stripe
-
 📊 Strong in SQL, database design & backend logic
-
 I focus on writing clean backend code, designing layered architectures, and implementing secure third-party integrations.
 
 🛠 Tech Stack
@@ -31,26 +26,19 @@ Git, GitHub, Postman, Stripe CLI
 💳 Payment Integration System
 
 Integrated Stripe Checkout
-
 Webhook-based payment confirmation
-
 Layered architecture design
-
 End-to-end tested using Stripe Test Mode
 
-🔗 Portfolio: https://your-vercel-link.vercel.app
+🔗 Portfolio: https://shivraj-portfolio-nine.vercel.app/
 
 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/shivraj-sonawane-9437882aa/
-
 Email: sonawaneshivrajk@gmail.com
-
-Now when someone opens your GitHub, it looks professional immediately.
 
 ✅ 3️⃣ Resume-Level Project Description (Stronger Version)
 
-Use this in your resume:
 
 Payment Integration System | Java, Spring Boot, Microservices, Stripe
 
